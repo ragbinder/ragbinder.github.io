@@ -1,7 +1,7 @@
 ---
 title:  "Test Post"
-date:   2014-12-09
-categories: tests posts
+date:   2014-12-09 00:43:00
+categories: tests
 ---
 
 **Title of a Section**
@@ -21,7 +21,6 @@ categories: tests posts
 	{
 		cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault];
 	}
-
 	return cell;
 }
 ```
